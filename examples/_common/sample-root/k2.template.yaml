@@ -1,0 +1,9 @@
+k2:
+  metadata:
+    id: k2.samples._common.sample-root
+    kind: "template"
+  body:
+    name: "Example project root"
+    parameters:
+      name: "My first sample"
+      

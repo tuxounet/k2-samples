@@ -1,0 +1,12 @@
+k2:
+  metadata:
+    id: k2.samples.simple-local-wiki.content
+    kind: template-apply
+  body:
+    vars:
+      title: "Mon Wiki"
+      name: "TOC"
+    template:
+      source: inventory
+      params:
+        id: k2.samples.simple-local-wiki.templates.content-root

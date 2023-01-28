@@ -1,0 +1,9 @@
+k2:
+  metadata:
+    id: k2.samples.simple-local-wiki.templates.content-root
+    kind: "template"
+  body:
+    name: "content-root"
+    vars:
+      name: "Mon wiki"
+     

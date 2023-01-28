@@ -1,0 +1,11 @@
+k2:
+  metadata:
+    id: k2.cli.sample.services.product1.component2
+    kind: template-apply
+  body:
+    vars:
+      name: "component2"
+      description: "Template of type kind2"
+    template:
+      source: 
+         k2.cli.sample.templates.kind2 

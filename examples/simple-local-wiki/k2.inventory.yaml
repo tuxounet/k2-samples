@@ -1,0 +1,15 @@
+k2:
+  metadata:
+    id: k2.samples.simple-local-wiki
+    kind: inventory
+  body:
+    vars:
+      title: Exemple de wiki personnel
+    folders:
+      ignore: []
+      templates:
+        - ../_common/**/k2.template.yaml 
+        - "**/templates/**/k2.template.yaml"
+      applies:       
+        - content/**/k2.apply.yaml
+      
