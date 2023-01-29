@@ -6,6 +6,7 @@ k2:
     vars:
       title: "Mon Wiki"
       name: "TOC"
+      description: "Contenu de mon super wiki"
     template:
       source: inventory
       params:

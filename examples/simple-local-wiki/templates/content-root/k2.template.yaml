@@ -6,4 +6,4 @@ k2:
     name: "content-root"
     parameters:
       name: "Mon wiki"
-      description: "Contenu de mon wiki"
+      description: "Contenu du wiki"
