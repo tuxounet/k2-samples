@@ -6,4 +6,4 @@ k2:
     name: "Example project root"
     parameters:
       name: "My first sample"
-      
+      description: "Description of my sample"
